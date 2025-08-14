@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+langchain
+langchain-qdrant
+langchain-openai
+openai
+qdrant-client
+pydantic
