@@ -9,3 +9,5 @@ langchain-openai
 openai
 qdrant-client
 pydantic
+pypdf
+tiktoken
