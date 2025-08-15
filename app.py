@@ -2,7 +2,8 @@ import streamlit as st
 import requests
 import time
 
-API_URL = "http://127.0.0.1:8000"
+# API_URL = "http://127.0.0.1:8000"
+API_URL = "https://chatwithpdf-7jj4.onrender.com"
 
 st.set_page_config(
     page_title="PDF Chat Assistant",
